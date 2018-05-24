@@ -1,0 +1,14 @@
+
+
+
+1	Puma_Simulation.m dosyasını açın ve çalıştırın
+2	Çıkan gui ekranında kinematik ve ters kinematik için gerekli bölümleri doldurunuz
+3	draw bölümünden yapılan degişikleri çizebilirsiniz
+4	random move ile rastgele çizim yaptırabilirsiniz
+5	ileri kinematik için için açı degerleri giriniz
+6	ters kinematik için translate ve rotasyon degerlerini giriniz 
+7	clr trail ile random move daki çizimi silebilirsiniz
+8	home tuşu ile başlangıç konumuna götürebilirsiniz
+9	dh&t matrix tuşuna basarsanız ters kinematikteki verileri sagdaki tabloda degerleri
+	görebilirsiniz. bu basit robotik degişkenleridir. temel robotik derslerinde sıkça
+	kullanılır. program çok kullanışlıdır. kolaylıkla herkes kullanabilir.
